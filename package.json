@@ -1,0 +1,15 @@
+{
+  "name": "bilingual-linker-nav-menu",
+  "version": "1.0.0",
+  "description": "Nav Menu block for Bilingual Linker",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build"
+  },
+  "author": "",
+  "license": "GPL-2.0-only",
+  "devDependencies": {
+    "@wordpress/scripts": "26.17.0"
+  }
+}
